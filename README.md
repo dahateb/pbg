@@ -1,1 +1,1 @@
-"# paywallbegone" 
+# paywallbegone
